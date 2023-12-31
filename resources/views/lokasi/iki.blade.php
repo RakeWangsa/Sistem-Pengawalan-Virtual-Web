@@ -27,7 +27,7 @@
     </div>
 </div>
 
-<section class="section dashboard">
+<section class="section dashboard" style="height:100vh">
     <div class="row">
         <div class="col-lg-12">
             <div class="row table-responsive">

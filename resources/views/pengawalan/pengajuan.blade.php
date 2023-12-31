@@ -4,7 +4,7 @@
 <div class="pagetitle mt-3">
     <h1>Pengawalan</h1>
 </div>
-<section class="section dashboard">
+<section class="section dashboard" style="height:100vh">
     <div class="row col-md-12">
         <div class="card">
             <div class="card-body">

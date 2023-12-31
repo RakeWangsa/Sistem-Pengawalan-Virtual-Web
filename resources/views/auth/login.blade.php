@@ -1,7 +1,7 @@
 @include('layouts.head')
 
 <main>
-    <div class="container-login">
+    <div class="container-login" style="background: linear-gradient(to bottom right, #262cff, #0096ff);">
         <section class="section register min-vh-100 d-flex flex-column align-items-center justify-content-center py-4">
             @if (session()->has('success'))
             <div class="alert alert-success alert-dismissible fade show justify-content-center col-4 mb-4" role="alert">

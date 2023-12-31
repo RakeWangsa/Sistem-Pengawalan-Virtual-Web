@@ -5,7 +5,7 @@
     @include('layouts.head')
 </head>
 
-<body>
+<body style="background: linear-gradient(to bottom right, #bfe5ff, #59baff);">
     @include('partials.navbar')
     @include('partials.sidebar')
 
